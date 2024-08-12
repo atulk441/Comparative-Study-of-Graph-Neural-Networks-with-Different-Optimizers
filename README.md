@@ -5,5 +5,5 @@ This project examines the performance of several Graph Neural Network (GNN) vers
 
 ## Highlights of Research
 1) Understood and implemented Graph Autoencoders, GCNs, GATs, and Graph SAGE models.
-2) Evaluated both traditional (e.g., ASGD, LBFGS) and advanced (e.g., Adam, RAdam) optimization algorithms.
+2) Evaluated both traditional (e.g., ASGD, LBFGS) and advanced (e.g., Adam, Adagrad, Adadelta, RAdam, NAdam, AdamW, and SNRAdam) optimization algorithms.
 3) Discovered significant variations in optimizer performance across models and datasets, providing insights for improving accuracy and training efficiency.
